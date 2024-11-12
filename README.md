@@ -1,7 +1,7 @@
 # IMGS-789-Assignment-2
 \n
 GANs
-\n
+<hr>
   Part 1. GAN_Imp.ipynb
   Part 2. DCGAN_Imp.ipynb
   Part 3. Latent_Space_Interpolation.ipynb
